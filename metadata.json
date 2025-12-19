@@ -1,0 +1,5 @@
+{
+  "name": "國防指揮系統 (Defense Command System)",
+  "description": "純本地端的軍事風格儀表板，用於管理城市閉城狀態、準備時間、防禦階段及冷卻時間。",
+  "requestFramePermissions": []
+}
